@@ -58,6 +58,7 @@ android {
             }
         }
     }
+    namespace 'com.mapbox.navigation.examples.preview'
 }
 
 dependencies {

@@ -47,6 +47,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.mapbox.navigation.examples.aaos'
 }
 
 dependencies {
